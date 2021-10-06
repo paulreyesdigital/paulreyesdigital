@@ -6,7 +6,7 @@
     &#8287;&#8287;&#8287;
     <a href="https://www.instagram.com/pbreyse/"><img title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     &#8287;&#8287;&#8287;
-    <a href="#"><img title="Follow me on Instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="www.linkedin.com/in/pbreyes63937"><img title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     &#8287;&#8287;&#8287;
     <a href="mailto:pbreyes63937@gmail.com"><img title="Follow me on Instagram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -14,7 +14,7 @@
 <p>&nbsp;</p>
 
 <!-- Read ME Typing effect https://readme-typing-svg.herokuapp.com/demo/ -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2196F3&size=22&width=650&lines=%7B%22name%22%3A+%22Paul+Bryan+Reyes%22%7D;%7B%22description%22%3A+%22Full-stack+Developer%22%7D;%7B%22email%22%3A+%pbreyes63937%40gmail.com%22%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2196F3&size=22&width=650&lines=%7B%22name%22%3A+%22Paul+Bryan+Reyes%22%7D;%7B%22description%22%3A+%22Full-stack+Developer%22%7D;%7B%22email%22%3A+pbreyes63937%40gmail.com%22%7D)](https://git.io/typing-svg)
 
 ## Few Facts About Me
 
