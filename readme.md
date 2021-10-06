@@ -2,27 +2,26 @@
 
 <!-- Social Badges https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <p>
-    <a href="https://www.facebook.com/iscothevictory/"><img title="Add me on Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <a href="https://www.facebook.com/seyluap/"><img title="Add me on Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
     &#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/francis_delavictoria/"><img title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.instagram.com/pbreyse/"><img title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     &#8287;&#8287;&#8287;
     <a href="#"><img title="Follow me on Instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     &#8287;&#8287;&#8287;
-    <a href="mailto:francisdelavictoria150@gmail.com"><img title="Follow me on Instagram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:pbreyes63937@gmail.com"><img title="Follow me on Instagram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p>&nbsp;</p>
 
 <!-- Read ME Typing effect https://readme-typing-svg.herokuapp.com/demo/ -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2196F3&size=22&width=650&lines=%7B%22name%22%3A+%22Francis+Dela+Victoria%22%7D;%7B%22description%22%3A+%22Full-stack+Developer%22%7D;%7B%22email%22%3A+%22francisdelavictoria150%40gmail.com%22%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2196F3&size=22&width=650&lines=%7B%22name%22%3A+%22Paul+Bryan+Reyes%22%7D;%7B%22description%22%3A+%22Full-stack+Developer%22%7D;%7B%22email%22%3A+%pbreyes63937%40gmail.com%22%7D)](https://git.io/typing-svg)
 
 ## Few Facts About Me
 
 - 👨‍💻 I'm a Full-stack Dev with 5+ years exp.
 - 💕 Very passionate for Coding.
 - 📖 Don't want to stop learning new things.
-- 💼 I currently work as the Head Software Engineer at [Rank Fortress Digital Agency](https://rankfortress.com/).
-- 🦸‍♂️ I'm a dad, a husband, a son, and a big brother.
+- 💼 I currently work as a Software Engineer at [Rank Fortress Digital Agency](https://rankfortress.com/).
 
 <p>&nbsp;</p>
 
@@ -61,11 +60,11 @@
 
 ## Github Stats <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=francis150&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francis150&layout=compact&theme=gruvbox&hide_border=true&count_private=true)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pbreyes63937&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbreyes63937&layout=compact&theme=gruvbox&hide_border=true&count_private=true)
 
 <p>&nbsp;</p>
 
 ## Reach Out
 
-[francisdelavictoria150@gmail.com](mailto:francisdelavictoria150@gmail.com) | [/iscothevictory](https://www.facebook.com/iscothevictory/) | +639669257362(PH)
+[pbreyes63937@gmail.com](mailto:pbreyes63937@gmail.com) | [/seyluap](https://www.facebook.com/seyluap/) | +639954979807(PH)
