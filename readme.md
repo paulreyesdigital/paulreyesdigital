@@ -18,6 +18,5 @@
 
 <p>&nbsp;</p>
 
-[pbreyes63937@gmail.com](mailto:pbreyes63937@gmail.com) | [/seyluap](https://www.facebook.com/seyluap/) | +639954979807(PH)
 
 
