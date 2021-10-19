@@ -1,4 +1,4 @@
-# Digital marketing and web development Expert that will help you : 
+## Digital marketing and Web Development Expert that will help you
 
 <!-- Read ME Typing effect https://readme-typing-svg.herokuapp.com/demo/ -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70F8D&lines=Build+your+Brand+and+Website;Bring+your+Ideas+into+Code;Grow+Your+Business+in+The+Digital+Age)](https://git.io/typing-svg)
