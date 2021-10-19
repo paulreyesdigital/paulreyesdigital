@@ -3,20 +3,7 @@
 <!-- Read ME Typing effect https://readme-typing-svg.herokuapp.com/demo/ -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70F8D&lines=Build+your+Brand+and+Website;Bring+your+Ideas+into+Code;Grow+Your+Business+in+The+Digital+Age)](https://git.io/typing-svg)
 
-More Details About Me: 
-
-- 👨‍💻 Full-stack Developer
-- 💕 Loves Everything about Code
-- 📖 Always Doing Self-Improvement and Learning New Things.
-- 💼 Currently working as a Software Engineer at [Rank Fortress Digital Agency](https://rankfortress.com/).
-
-<p>&nbsp;</p>
-
 ## Let's talk about your project. Get in touch.
-
-<p>&nbsp;</p>
-
-[pbreyes63937@gmail.com](mailto:pbreyes63937@gmail.com) | [/seyluap](https://www.facebook.com/seyluap/) | +639954979807(PH)
 
 <!-- Social Badges https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <p>
@@ -28,3 +15,9 @@ More Details About Me:
     &#8287;&#8287;&#8287;
     <a href="mailto:pbreyes63937@gmail.com"><img title="Follow me on Instagram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<p>&nbsp;</p>
+
+[pbreyes63937@gmail.com](mailto:pbreyes63937@gmail.com) | [/seyluap](https://www.facebook.com/seyluap/) | +639954979807(PH)
+
+
