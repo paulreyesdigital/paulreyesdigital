@@ -1,7 +1,9 @@
-## About Me
+# Digital marketing and web development Expert that will help you : 
 
 <!-- Read ME Typing effect https://readme-typing-svg.herokuapp.com/demo/ -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23F72F8F&center=true&vCenter=true&width=409&lines=Build+Brands+and+Websites;Develop+your+Ideas+to+Software;Grow+your+Business+in+the+Digital+Age)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70F8D&lines=Build+your+Brand+and+Website;Bring+your+Ideas+into+Code;Grow+Your+Business+in+The+Digital+Age)](https://git.io/typing-svg)
+
+More Details About Me: 
 
 - 👨‍💻 Full-stack Developer
 - 💕 Loves Everything about Code
