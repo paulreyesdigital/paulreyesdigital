@@ -50,7 +50,7 @@ Hi 👋 My name is Paul, I'm a Full Stack Developer.
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbreyes63937&layout=compact&theme=gruvbox&hide_border=true&count_private=true)
 
-### Reach Out 
+##  Reach Out 
 I am open to collaborating on aspiring projects.
 <br>
 <p>
