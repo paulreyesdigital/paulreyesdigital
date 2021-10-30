@@ -46,9 +46,9 @@ Hi 👋 My name is Paul, I'm a Full Stack Developer.
 <p>&nbsp;</p>
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pbreyes63937&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulreyesdigital&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbreyes63937&layout=compact&theme=gruvbox&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulreyesdigital&layout=compact&theme=gruvbox&hide_border=true&count_private=true)
 
 ##  Reach Out 
 I am open to collaborating on aspiring projects.
@@ -58,7 +58,7 @@ I am open to collaborating on aspiring projects.
     &#8287;&#8287;&#8287;
     <a href="https://www.instagram.com/pbreyse/"><img title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     &#8287;&#8287;&#8287;
-    <a href="www.linkedin.com/in/pbreyes63937"><img title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="www.linkedin.com/in/paulreyesdigital"><img title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     &#8287;&#8287;&#8287;
-    <a href="mailto:pbreyes63937@gmail.com"><img title="Follow me on Instagram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:paulreyesdigital@gmail.com"><img title="Follow me on Instagram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
