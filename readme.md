@@ -1,10 +1,9 @@
-Hi 👋 My name is Paul, I'm a Full Stack Developer.  
-<!-- Social Badges https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+# Hi 👋 My name is Paul, A Full Stack Developer at your service. 🔥
 
-- 👨‍💻 I'm a Full-stack Dev with 3+ years exp.
-- 🚀 I also do SEO.
-- 💕 Very passionate about Coding.
-- 📖 I never stop learning new things.
+Few things to know about me:
+- 👨‍💻 I'm a Full-stack Dev with 2+ years exp. Projects we've built includes Web Applications, Automation Tools, and Rest API's.
+- 🚀 I'm also an SEO Specialist. We at [Rank Fortress Digital Agency](https://rankfortress.com/), help our clients rank their businesses right to the <strong>top search results</strong> 🏆.
+- 💕 I am a passionate programmer. There are no days I don't learn something new about code. 
 - 💼 I currently work as Software Engineer at [Rank Fortress Digital Agency](https://rankfortress.com/).
 
 <p>&nbsp;</p>
@@ -49,6 +48,9 @@ Hi 👋 My name is Paul, I'm a Full Stack Developer.
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulreyesdigital&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulreyesdigital&layout=compact&theme=gruvbox&hide_border=true&count_private=true)
+
+
+<!-- Social Badges https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 ##  Reach Out 
 I am open to collaborating on aspiring projects.
