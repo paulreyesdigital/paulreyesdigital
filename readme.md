@@ -2,7 +2,7 @@
 
 Few things to know about me:
 - 👨‍💻 I'm a Full-stack Dev with 2+ years exp. Projects we've built includes Web Apps, Automation Tools, and Rest API's.
-- 🚀 I'm also an SEO Specialist.
+- 🚀 I'm also an SEO Specialist, and have deep knowledge with On-Page, Off-Page, and Technical SEO.
 - 💕 I am a passionate programmer. There are no days I don't learn something new about code. 
 - 💼 I currently work as Software Engineer at [Rank Fortress Digital Agency](https://rankfortress.com/).
 
