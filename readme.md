@@ -1,6 +1,6 @@
 # **Hello, My name is Paul  🙋‍♂️ <br>**
 
-![Banner](https://i.imgur.com/NzIzQT4.png)
+<a href="#">![Banner](https://i.imgur.com/NzIzQT4.png)</a>
 
 I'm a 20-year-old Full-Stack Web Developer based in the Philippines. Due to the pandemic I have temporarily postponed my Computer Engineering Degree, and pursue a full time job as a Web Applications Developer and SEO Specialist.
 
@@ -13,7 +13,7 @@ I'm a 20-year-old Full-Stack Web Developer based in the Philippines. Due to the 
 
 
 ## **Find me on my social media accounts 🌏**
-<hr>
+
 
 - <a href="https://www.facebook.com/seyluap/">Facebook</a>
 - <a href="https://www.instagram.com/pbreyse/">Instagram</a>
@@ -29,7 +29,7 @@ I'm a 20-year-old Full-Stack Web Developer based in the Philippines. Due to the 
 <br>  
 
 ## **Skills** 🔥
-<hr>
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
