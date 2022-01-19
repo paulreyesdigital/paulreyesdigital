@@ -1,7 +1,7 @@
 # **Hello, My name is Paul  🙋‍♂️ <br>**
 
 
-I'm an 20-year-old Full-Stack Web Developer based in the Philippines. Due to the pandemic I have temporarily postponed my Computer Engineering Degree, and pursue a full time job as a Web Applications Developer and SEO Specialist.
+I'm a 20-year-old Full-Stack Web Developer based in the Philippines. Due to the pandemic I have temporarily postponed my Computer Engineering Degree, and pursue a full time job as a Web Applications Developer and SEO Specialist.
 
 
 - 🤝I'm open to collaborate on Full Stack Web Development
