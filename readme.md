@@ -1,5 +1,6 @@
 # **Hello, My name is Paul  🙋‍♂️ <br>**
 
+![Banner](https://i.imgur.com/NzIzQT4.png)
 
 I'm a 20-year-old Full-Stack Web Developer based in the Philippines. Due to the pandemic I have temporarily postponed my Computer Engineering Degree, and pursue a full time job as a Web Applications Developer and SEO Specialist.
 
