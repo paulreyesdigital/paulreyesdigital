@@ -62,6 +62,9 @@ I'm a 20-year-old Full-Stack Web Developer based in the Philippines. Due to the 
 <p>&nbsp;</p>
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=paulreyesdigital&theme=blue-green)
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paulreyesdigital&theme=blue-green)
+## Github Stats <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulreyesdigital&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulreyesdigital&layout=compact&theme=gruvbox&hide_border=true&count_private=true)
+
 <p>&nbsp;</p>
