@@ -1,8 +1,9 @@
-# **Hello, My name is Paul  🙋‍♂️ <br>**
+# **Hello, My name is Paul Reyes 🙋‍♂️ <br>**
 
 <a href="#">![Banner](https://i.imgur.com/NzIzQT4.png)</a>
 
-I'm a 20-year-old Full-Stack Web Developer based in the Philippines. Due to the pandemic I have temporarily postponed my Computer Engineering Degree, and pursue a full time job as a Web Applications Developer and SEO Specialist.
+I'm a Full-Stack Web Developer based in the Philippines. I love challenges and solving problems. That's why I'm passionate on Software Development.
+It allows me to reach out and contribute on building projects that matters.
 
 
 - 🤝I'm open to collaborate on Full Stack Web Development
