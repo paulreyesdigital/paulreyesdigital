@@ -51,6 +51,9 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=paulreyesdigital&theme=monokai-metallian&hide_border=true"/>
 </p>
 
+<br />
+<br />
+<br />
 
 ## 🛠️ My favorite tools
 
@@ -105,6 +108,10 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+
+<br />
+<br />
+<br />
 
 ## 📊 Github stats
 
