@@ -38,7 +38,7 @@
   🤝 I'm open to collaborate on Full Stack Web Development<br>
   📧 How to reach me: <a href="mailto:paulreyesdigital@gmail.com">paulreyesdigital@gmail.com</a><!-- & <a href="#">Twitter @PaulReyesDigital</a> --> <br>
   💼 I'm a Professional Software Engineer at [Rank Fortress Digital Agency](https://rankfortress.com/).<br>
-  🚀 I'm the Co-Founder of [SEO Rocket](https://seorockettools.com/).<br>
+  🚀 I'm the Founder of [SEO Rocket](https://seorockettools.com/).<br>
 </div>
 
 
