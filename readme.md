@@ -37,7 +37,7 @@
   
   🤝 I'm open to collaborate on Full Stack Web Development<br>
   📧 How to reach me: <a href="mailto:paulreyesdigital@gmail.com">paulreyesdigital@gmail.com</a><!-- & <a href="#">Twitter @PaulReyesDigital</a> --> <br>
-  🚀 I'm the Founder of [SEO Rocket](https://seorocket.dev/).<br>
+  🚀 I'm A Co-Founder of [SEO Rocket](https://seorocket.dev/).<br>
 </div>
 
 
